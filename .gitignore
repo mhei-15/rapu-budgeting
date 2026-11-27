@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+# Receipt photos used for the reading test stay on your computer
+receipts/*
+!receipts/README.md
+test-results/
